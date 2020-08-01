@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    touch-action: manipulation;
+}
+body{
+    background-color: #353535;
+}
+h1{
+    font-family: 'Luckiest Guy', serif;
+    color: white;
+    background: -webkit-linear-gradient(pink,blueviolet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 100px;
+    margin-bottom: 1%;
+}
+hr{
+    width: 70%;
+    margin-bottom: 2%;
+    border-radius: 90%;
+    background-color: pink;
+    color: pink;
+}
+h4{
+    margin-top: 3%;
+    color: darkorange;
+}
